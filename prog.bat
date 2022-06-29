@@ -1,0 +1,1 @@
+copy /Y C:\Projects\Kessler\Curiosity.X\dist\default\production\Curiosity.X.production.hex F:\
